@@ -1,0 +1,6 @@
+# ignore all bin files and obj files
+
+/bin
+/obj
+*.log
+*.config
